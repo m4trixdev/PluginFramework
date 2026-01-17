@@ -31,28 +31,6 @@ A powerful and comprehensive framework for Minecraft plugin development, providi
 - Paper/Spigot 1.20.4
 - Maven 3.6+
 
-### Maven Dependency
-
-Add the framework to your project's `pom.xml`:
-
-```xml
-<dependency>
-    <groupId>dev.m4trix</groupId>
-    <artifactId>plugin-framework</artifactId>
-    <version>1.0.0</version>
-    <scope>provided</scope>
-</dependency>
-```
-
-### Repository
-
-```xml
-<repository>
-    <id>m4trix-repo</id>
-    <url>https://github.com/m4trixdev/PluginFramework</url>
-</repository>
-```
-
 ## ⚙️ Configuration
 
 ### config.yml
