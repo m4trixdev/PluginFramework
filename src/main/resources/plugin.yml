@@ -1,0 +1,12 @@
+name: PluginFramework
+version: ${project.version}
+main: br.com.m4trixdev.Main
+api-version: '1.20'
+author: M4trixDev
+website: https://github.com/m4trixdev
+
+commands:
+  framework:
+    description: Framework management command
+    usage: /<command> [reload|info]
+    aliases: [fw]

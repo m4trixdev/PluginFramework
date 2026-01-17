@@ -1,0 +1,11 @@
+settings:
+  debug: false
+  locale: en_US
+
+cache:
+  enabled: true
+  default-ttl: 3600000
+
+example:
+  enabled: true
+  value: "default"
